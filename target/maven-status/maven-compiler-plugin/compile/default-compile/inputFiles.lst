@@ -1,0 +1,7 @@
+/home/alejandro/Escritorio/demo/src/main/java/com/example/demo/exceptions/FilmException.java
+/home/alejandro/Escritorio/demo/src/main/java/com/example/demo/models/Film.java
+/home/alejandro/Escritorio/demo/src/main/java/com/example/demo/DemoApplication.java
+/home/alejandro/Escritorio/demo/src/main/java/com/example/demo/mappers/FilmMapper.java
+/home/alejandro/Escritorio/demo/src/main/java/com/example/demo/controller/FilmController.java
+/home/alejandro/Escritorio/demo/src/main/java/com/example/demo/configuration/CachingConfig.java
+/home/alejandro/Escritorio/demo/src/main/java/com/example/demo/service/FilmService.java

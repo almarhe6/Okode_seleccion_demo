@@ -1,0 +1,8 @@
+com/example/demo/DemoApplication.class
+com/example/demo/controller/FilmController.class
+com/example/demo/DemoApplication$1.class
+com/example/demo/service/FilmService.class
+com/example/demo/exceptions/FilmException.class
+com/example/demo/configuration/CachingConfig.class
+com/example/demo/mappers/FilmMapper.class
+com/example/demo/models/Film.class
